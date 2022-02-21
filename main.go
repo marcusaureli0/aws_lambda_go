@@ -11,5 +11,5 @@ func main() {
 }
 
 func Handler() {
-	fmt.Println(("Function Invoked!!! :)"))
+	fmt.Println(("Hello World!!"))
 }
